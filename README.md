@@ -1,4 +1,4 @@
-# CRUD Assignment
+# CRUD Assessment
 
 ## Setup
 ### `npm run env`
@@ -37,3 +37,13 @@ to run local server
 ![laravel](https://img.shields.io/badge/Laravel-FF2D20?flat-square&logo=laravel&logoColor=fff) 
 ![mysql](https://img.shields.io/badge/MySQL-4479A1?flat-square&logo=mysql&logoColor=fff) 
 ![sqlite](https://img.shields.io/badge/SQLite-003B57?flat-square&logo=sqlite&logoColor=fff) 
+
+![work3](https://kenneth-andales.github.io/portfolio/images/work3/1.png)
+![work3](https://kenneth-andales.github.io/portfolio/images/work3/2.png)
+![work3](https://kenneth-andales.github.io/portfolio/images/work3/3.png)
+![work3](https://kenneth-andales.github.io/portfolio/images/work3/4.png)
+![work3](https://kenneth-andales.github.io/portfolio/images/work3/5.png)
+![work3](https://kenneth-andales.github.io/portfolio/images/work3/6.png)
+![work3](https://kenneth-andales.github.io/portfolio/images/work3/7.png)
+![work3](https://kenneth-andales.github.io/portfolio/images/work3/8.png)
+![work3](https://kenneth-andales.github.io/portfolio/images/work3/9.png)
